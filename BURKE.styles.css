@@ -253,8 +253,6 @@ img{
 /* Large Screen Styles */
 @media (min-width: 1024px) {
     header, footer {
-        background-color: var(--lime-green);
-        color: var(--dark-gray);
     }
 
     h1, h2 {
@@ -287,7 +285,6 @@ img{
 /* Extra Large Screen Styles */
 @media (min-width: 1600px) {
     header, footer {
-        background-color: var(--orange);
         padding-left: 5%;
     }
 
