@@ -19,18 +19,17 @@ table, caption, tbody, tfoot, thead, tr, th, td {
   vertical-align: baseline;
 }
 
-/* Remove default list styles */
+
 ul, ol {
   list-style: none;
 }
 
-/* Set default hyperlink styles */
+
 a {
   text-decoration: none;
   color: inherit;
 }
 
-/* Set box-sizing to border-box for all elements */
 * {
   box-sizing: border-box;
 }
